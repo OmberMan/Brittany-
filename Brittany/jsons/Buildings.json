@@ -6,8 +6,10 @@
 		"maintenance": 2,
 		"gold": 2,
 		"requiredBuilding": "Harbor",
-		"uniques": ["+1 production and gold from all sea resources worked by the city",
-			"Can only be built in coastal cities", "+25% production of naval units"],
+		"uniques": [
+			"+1 production and gold from all sea resources worked by the city",
+			"Can only be built in coastal cities", "+25% production of naval units"
+		],
 		"requiredTech": "Navigation"
 	},
 	{
