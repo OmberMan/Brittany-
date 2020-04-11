@@ -1,15 +1,19 @@
-"name": "Marc'hegiezh",
-"unitType": "Ranged",
-"uniqueTo": "Brittany",
-"replaces": "Chariot Archer",
-"movement": 4,
-"strength": 6,
-"rangedStrength": 12,
-"cost": 75,
-"requiredTech": "The Wheel",
-"upgradesTo": "Knight",
-"obsoleteTech": "Chivalry",
-"uniques": ["Bonus vs Melee 50%", "Can move after attacking", "No defensive terrain bonus"],
-"hurryCostModifier": 20,
-"attackSound": "horse",
-"requiredResource": "Horses"
+[
+  {
+    "name": "Marc'hegiezh",
+    "unitType": "Ranged",
+    "uniqueTo": "Brittany",
+    "replaces": "Chariot Archer",
+    "movement": 4,
+    "strength": 6,
+    "rangedStrength": 12,
+    "cost": 75,
+    "requiredTech": "The Wheel",
+    "upgradesTo": "Knight",
+    "obsoleteTech": "Chivalry",
+    "uniques": ["Bonus vs Melee 50%", "Can move after attacking", "No defensive terrain bonus"],
+    "hurryCostModifier": 20,
+    "attackSound": "horse",
+    "requiredResource": "Horses"
+  }
+]
