@@ -11,7 +11,11 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Bonus vs Melee 50%", "Can move after attacking", "No defensive terrain bonus"],
+		"uniques": [
+			"Bonus vs Melee 50%",
+			"Can move after attacking",
+			"No defensive terrain bonus"
+		],
 		"hurryCostModifier": 20,
 		"attackSound": "horse",
 		"requiredResource": "Horses"
