@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Privateers' Port",
+		"uniqueTo": "Brittany",
+		"replaces": "Seaport",
+		"maintenance": 2,
+		"gold": 2,
+		"requiredBuilding": "Harbor",
+		"uniques": [
+			"[+1 Production] and [+1 Gold] from all [Water resources] [in this city]",
+			"Can only be built [in all coastal cities]", "[+25]% production towards [Water] units [in this city]"
+		],
+		"requiredTech": "Navigation"
+	},
+	{
+		"name": "Mount St. Michel",
+		"isWonder": true,
+		"culture": 5,
+		"requiredTech": "Theology",
+		"quote": "'In its folly the Couesnon gave the Mount to Normandy, but once it retrieves its reason, the Mount will be Breton' - Breton saying"
+	},
+]
